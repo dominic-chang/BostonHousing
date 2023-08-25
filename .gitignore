@@ -1,0 +1,11 @@
+*.png
+*.gif
+.vscode
+*.bson
+.DS_Store
+bin
+lib
+share
+include
+etc
+pyvenv.cfg
